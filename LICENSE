@@ -1,4 +1,10 @@
-The MIT License (MIT)
+Codes except those in the "example" directory is under the MIT License (MIT)
+
+The example codes are downloaded from http://shop.oreilly.com/product/9780596529321.do,
+the book's page of
+"Programming Collective Intelligence Building Smart Web 2.0 Applications", by Toby Segaran.
+See http://www.oreillynet.com/pub/a/oreilly/ask_tim/2001/codepolicy.html to know about
+"O'Reilly Policy on Re-Use of Code Examples from Books".
 
 Copyright (c) 2013 hagifoo
 
